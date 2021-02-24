@@ -1,0 +1,42 @@
+.ui.borderless.topmenu.menu {
+  background-color: #26548e;
+  border: none;
+  box-shadow: none;
+  color: #ffffff;
+}
+
+.image {
+  padding-top: 20px;
+}
+
+.ui.mini.left.floated.image {
+  padding-top: 20px;
+  padding-bottom: 10px;
+}
+
+.text {
+  color: white;
+  font-weight: bolder;
+  font-size: medium;
+  font-family: "Cabin Bold";
+  font-kerning: auto;
+}
+
+div.ui.equal.width.item {
+  padding-left: 0px;
+  padding-right: 15px;
+}
+
+@font-face {
+  font-family: 'Cabin Bold';
+  src: url('fonts/Cabin-Bold.ttf') format('truetype');
+  font-weight: normal; //
+  font-style: normal;
+}
+
+.ui.borderless.bottommenu {
+  background-color: #0a4a82;
+  border: none;
+  box-shadow: none;
+  padding-left: 170px;
+}
